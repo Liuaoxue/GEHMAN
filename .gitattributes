@@ -1,1 +1,9 @@
 *.npy filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Untitled.ipynb filter=lfs diff=lfs merge=lfs -text
+Untitled1_数据重组.ipynb filter=lfs diff=lfs merge=lfs -text
+Untitled1_数据预处理-边特征提取.ipynb filter=lfs diff=lfs merge=lfs -text
+df_tky_check_in_cid.csv filter=lfs diff=lfs merge=lfs -text
+df_tky_poi_data_cid.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
